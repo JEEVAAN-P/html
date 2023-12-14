@@ -1,3 +1,3 @@
 # html
 start fo html firt repository
-new html
+new html (java script)
